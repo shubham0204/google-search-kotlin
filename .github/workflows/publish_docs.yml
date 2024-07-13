@@ -28,7 +28,7 @@ jobs:
         run: |
           mkdir gh-pages
           mv README.md gh-pages/README.md
-          mv google-search-kotlin/build/dokka/html/* gh-pages/
+          mv build/dokka/html/* gh-pages/
       - name: Publish docs
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
