@@ -1,0 +1,25 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/google-search-kotlin/[root]/index.html
+$dokka.location:/GoogleSearchProvider.Companion///PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-companion/index.html
+$dokka.location:/GoogleSearchProvider.Companion/search/#kotlin.String#kotlin.Int#kotlin.String#kotlin.String#GoogleSearchProvider.SearchTimeframe?#kotlin.Int#kotlin.Boolean#kotlin.String/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-companion/search.html
+$dokka.location:/GoogleSearchProvider.Companion/searchAsFlow/#kotlin.String#kotlin.Int#kotlin.String#kotlin.String#GoogleSearchProvider.SearchTimeframe?#kotlin.Int#kotlin.Boolean#kotlin.String/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-companion/search-as-flow.html
+$dokka.location:/GoogleSearchProvider.GoogleSearchResult///PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-result/index.html
+$dokka.location:/GoogleSearchProvider.GoogleSearchResult/GoogleSearchResult/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-result/-google-search-result.html
+$dokka.location:/GoogleSearchProvider.GoogleSearchResult/href/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-result/href.html
+$dokka.location:/GoogleSearchProvider.GoogleSearchResult/pageText/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-result/page-text.html
+$dokka.location:/GoogleSearchProvider.GoogleSearchResult/title/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-result/title.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe.PAST_24HOURS///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}google-search-kotlin/[root]/-google-search-provider/-search-timeframe/-p-a-s-t_24-h-o-u-r-s/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe.PAST_HOUR///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}google-search-kotlin/[root]/-google-search-provider/-search-timeframe/-p-a-s-t_-h-o-u-r/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe.PAST_MONTH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}google-search-kotlin/[root]/-google-search-provider/-search-timeframe/-p-a-s-t_-m-o-n-t-h/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe.PAST_WEEK///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}google-search-kotlin/[root]/-google-search-provider/-search-timeframe/-p-a-s-t_-w-e-e-k/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe.PAST_YEAR///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}google-search-kotlin/[root]/-google-search-provider/-search-timeframe/-p-a-s-t_-y-e-a-r/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe///PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-search-timeframe/index.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe/code/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-search-timeframe/code.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe/entries/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-search-timeframe/entries.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe/valueOf/#kotlin.String/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-search-timeframe/value-of.html
+$dokka.location:/GoogleSearchProvider.SearchTimeframe/values/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-search-timeframe/values.html
+$dokka.location:/GoogleSearchProvider///PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/index.html
+$dokka.location:/GoogleSearchProvider/GoogleSearchProvider/#/PointingToDeclaration/google-search-kotlin/[root]/-google-search-provider/-google-search-provider.html
+
+
