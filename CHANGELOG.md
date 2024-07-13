@@ -1,0 +1,3 @@
+- Initial version of the library
+- Get search results with `GoogleSearchProvider.search` and `GoogleSearchProvider.searchAsFlow`
+- Check the docs: https://shubham0204.github.io/google-search-kotlin/google-search-kotlin/[root]/-google-search-provider/index.html
