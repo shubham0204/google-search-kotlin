@@ -33,11 +33,16 @@ The library provides two static methods to fetch Google Search results - `search
 
 ```kotlin
 CoroutineScope(Dispatchers.Default).launch {
-    val results: List<GoogleSearchProvider.GoogleSearchResult> = GoogleSearchProvider.search(
+    val results: Flow<GoogleSearchProvider.GoogleSearchResult> = GoogleSearchProvider.searchAsFlow(
         term  = "" ,
+        readPageText = false ,
+        numResults = 10,
+        lang = "en",
+        safe = "active",
+        timeframe = GoogleSearchProvider.SearchTimeframe.PAST_24HOURS,
         readPageText = false
     )
-    results.forEach {
+    results.collect {
         println( it.title )
         println( it.href )
     }
